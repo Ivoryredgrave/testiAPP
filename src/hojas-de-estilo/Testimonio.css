@@ -1,0 +1,25 @@
+.contenedor-principal {
+  display: flex;
+  justify-content: center;
+}
+
+.centrar-texto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-testimonio {
+  width: 800px;
+  margin: 10px 10px 50px;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+}
+
+.contenedor-texto-testimonio {
+  text-align: center;
+  padding: 40px;
+}
+
+.texto-testimonio {
+  text-align: justify;
+}
