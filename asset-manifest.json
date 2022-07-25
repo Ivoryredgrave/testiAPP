@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testiAPP/static/css/main.69afb92f.css",
+    "main.js": "/testiAPP/static/js/main.52f5b7c0.js",
+    "static/media/testimonio-jinx.jpg": "/testiAPP/static/media/testimonio-jinx.e59a985ad9799b7435e9.jpg",
+    "static/media/testimonio-ahri.jpg": "/testiAPP/static/media/testimonio-ahri.ced854836f64661b01dc.jpg",
+    "static/media/testimonio-riven.jpg": "/testiAPP/static/media/testimonio-riven.aef326275b909f8caa32.jpg",
+    "index.html": "/testiAPP/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.69afb92f.css",
+    "static/js/main.52f5b7c0.js"
+  ]
+}
